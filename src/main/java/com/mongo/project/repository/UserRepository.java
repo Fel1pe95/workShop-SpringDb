@@ -7,4 +7,5 @@ import com.mongo.project.entities.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String>{
 
+
 }
